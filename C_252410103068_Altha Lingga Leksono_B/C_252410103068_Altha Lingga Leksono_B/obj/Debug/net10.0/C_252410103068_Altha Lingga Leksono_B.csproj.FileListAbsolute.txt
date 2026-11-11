@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\C_252410103068_Altha Lingga Leksono_B\C_252410103068_Altha Lingga Leksono_B\obj\Debug\net10.0\C_252410103068_Altha Lingga Leksono_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\C_252410103068_Altha Lingga Leksono_B\C_252410103068_Altha Lingga Leksono_B\obj\Debug\net10.0\C_252410103068_Altha Lingga Leksono_B.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\C_252410103068_Altha Lingga Leksono_B\C_252410103068_Altha Lingga Leksono_B\obj\Debug\net10.0\C_252410103068_Altha Lingga Leksono_B.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\C_252410103068_Altha Lingga Leksono_B\C_252410103068_Altha Lingga Leksono_B\obj\Debug\net10.0\C_252410103068_Altha Lingga Leksono_B.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\C_252410103068_Altha Lingga Leksono_B\C_252410103068_Altha Lingga Leksono_B\obj\Debug\net10.0\C_252410103068_Altha Lingga Leksono_B.sourcelink.json
+C:\Users\lenovo\source\repos\C_252410103068_Altha Lingga Leksono_B\C_252410103068_Altha Lingga Leksono_B\bin\Debug\net10.0\C_252410103068_Altha Lingga Leksono_B.exe
+C:\Users\lenovo\source\repos\C_252410103068_Altha Lingga Leksono_B\C_252410103068_Altha Lingga Leksono_B\bin\Debug\net10.0\C_252410103068_Altha Lingga Leksono_B.deps.json
+C:\Users\lenovo\source\repos\C_252410103068_Altha Lingga Leksono_B\C_252410103068_Altha Lingga Leksono_B\bin\Debug\net10.0\C_252410103068_Altha Lingga Leksono_B.runtimeconfig.json
+C:\Users\lenovo\source\repos\C_252410103068_Altha Lingga Leksono_B\C_252410103068_Altha Lingga Leksono_B\bin\Debug\net10.0\C_252410103068_Altha Lingga Leksono_B.dll
+C:\Users\lenovo\source\repos\C_252410103068_Altha Lingga Leksono_B\C_252410103068_Altha Lingga Leksono_B\bin\Debug\net10.0\C_252410103068_Altha Lingga Leksono_B.pdb
+C:\Users\lenovo\source\repos\C_252410103068_Altha Lingga Leksono_B\C_252410103068_Altha Lingga Leksono_B\obj\Debug\net10.0\C_252410103068_Altha Lingga Leksono_B.dll
+C:\Users\lenovo\source\repos\C_252410103068_Altha Lingga Leksono_B\C_252410103068_Altha Lingga Leksono_B\obj\Debug\net10.0\refint\C_252410103068_Altha Lingga Leksono_B.dll
+C:\Users\lenovo\source\repos\C_252410103068_Altha Lingga Leksono_B\C_252410103068_Altha Lingga Leksono_B\obj\Debug\net10.0\C_252410103068_Altha Lingga Leksono_B.pdb
+C:\Users\lenovo\source\repos\C_252410103068_Altha Lingga Leksono_B\C_252410103068_Altha Lingga Leksono_B\obj\Debug\net10.0\C_252410103068_Altha Lingga Leksono_B.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\C_252410103068_Altha Lingga Leksono_B\C_252410103068_Altha Lingga Leksono_B\obj\Debug\net10.0\ref\C_252410103068_Altha Lingga Leksono_B.dll
+C:\Users\lenovo\source\repos\C_252410103068_Altha Lingga Leksono_B\C_252410103068_Altha Lingga Leksono_B\obj\Debug\net10.0\C_252410.97404DCC.Up2Date
